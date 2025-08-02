@@ -1,0 +1,14 @@
+[
+  [
+    "hello hello",
+    "Please provide me with the PDF you want me to search. I need the PDF file to answer your question.\n\n📚 Sources:\n• Open_Source_Software_Best_Practices_and_Supply_Chain_Risk_Management.pdf (p. 5, 23, 27, 30, 35, 50, 52, 53)\n"
+  ],
+  [
+    "check can you tell me more about Open Source",
+    "Based on the provided text, open-source software (OSS) offers several advantages.  It fosters community engagement, leading to beneficial feature development and issue resolution.  A significant portion (78% as of 2022) of OSS components are under permissive licenses, allowing for wide use, modification, and distribution with minimal redistribution requirements.  The Apache License is the most popular, used by 30% of OSS projects.\n\nLarger organizations tend to be more proactive in managing OSS risks, often employing dedicated teams and processes, unlike smaller organizations which are more reactive.  A Software Bill of Materials (SBOM) is crucial for managing OSS components, providing visibility into the software supply chain and helping to mitigate security and licensing issues.  SBOMs offer benefits such as lower costs, reduced code bloat, and improved security.  However, creating an SBOM can be time-consuming.  Static application security testing (SAST) is also mentioned as a method for assessing the security of applications by examining their code.\n\n📚 Sources:\n• Open_Source_Software_Best_Practices_and_Supply_Chain_Risk_Management.pdf (p. 5, 19, 24, 25, 26, 31, 43, 52)\n"
+  ],
+  [
+    "2. How do SBOMs reduce costs and code bloat?",
+    "Based on the provided text, SBOMs reduce costs and code bloat by providing visibility into the software supply chain.  This allows organizations to identify and mitigate potential security and licensing issues, leading to lower costs and reduced code bloat (unnecessarily long, slow, or otherwise wasteful of resources).\n\n📚 Sources:\n• Open_Source_Software_Best_Practices_and_Supply_Chain_Risk_Management.pdf (p. 2, 3, 35, 43, 50, 57)\n"
+  ]
+]

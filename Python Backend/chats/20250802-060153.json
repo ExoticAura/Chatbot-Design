@@ -1,0 +1,6 @@
+[
+  [
+    "hi chat tell me more about Open Source",
+    "Based on the provided text, open source (OSS) refers to software with source code that anyone can inspect, modify, and distribute.  Several companies, including Microsoft (with .NET and PowerShell) and NVIDIA (with PhysX), have open-sourced previously proprietary software.  Open sourcing allows for collaborative codebases, increased community engagement (leading to feedback and contributions), and wider availability.  However, the text also mentions risks associated with OSS, including vulnerabilities, and the need for best practices to secure open-source components.  The cultural drivers behind company engagement in open source often center on innovation.  There's also discussion of the benefits of community engagement for organizations, including improved software and issue resolution.  Finally, the text highlights the need for increased awareness of the advantages of community engagement in the open-source community.\n\n📚 Sources:\n• Open_Source_Software_Best_Practices_and_Supply_Chain_Risk_Management.pdf (p. 5, 26, 27, 28, 47, 50, 52)\n"
+  ]
+]

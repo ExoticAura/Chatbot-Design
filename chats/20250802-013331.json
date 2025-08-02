@@ -1,0 +1,10 @@
+[
+  [
+    "hi",
+    "Hello! \ud83d\udc4b How can I help you today?"
+  ],
+  [
+    "what is sbom",
+    "Based on the provided text, an SBOM is a Software Bill of Materials.  It's a standard, like SPDX and CycloneDX, used for application security and supply chain component analysis.  The text also mentions that at a minimum, an SBOM must contain three categories of information (though the specifics of these categories aren't detailed here).  The creation of SBOMs has increased in popularity due to executive orders mandating their use in federal software.\n\n\ud83d\udcda Sources:\n\u2022 Open_Source_Software_Best_Practices_and_Supply_Chain_Risk_Management.pdf (p. 43, 56, 51, 17, 53, 18, 50, 35)\n"
+  ]
+]

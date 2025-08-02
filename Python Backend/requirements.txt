@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain_google_genai
+faiss-cpu
+PyMuPDF
+python-dotenv
+tk
+pyttsx3
+ttkbootstrap>=1.6.2
+pypdf==5.9.0
+rank_bm25
+flask-cors
